@@ -2,3 +2,12 @@ body {
     text-align: center;
     
 }
+.hover-button {
+    background-color: pink;
+
+}
+.hover-button:hover {
+    background-color: coral;
+
+
+}
